@@ -1,23 +1,41 @@
 # Inventory-Management-System
-I have created a inventory management system project for the ETG internship.
-With it one can track his product records and sales happened in his inventory.
-Also with it one can add or delete products in the inventory.
-It has 2 files one for the purchasing purpose and another one for adding products.
-It stores everything in 2 json files namely-record.json and sales.json.
-Record.json has all the product details and the sales.json file has all the details of the purchase made.
+This repository is having all the codes for Inventory Management System used in AI/ML Internship by ETG.
 
-To start with the inventory management program it asks a user to give an input wheather he want to make a purchase or exit.
-It shows all the products available to purchase in the inventory.
-Then it asks for the product id which you want to purchase.
-Once user has entered the id then it asks for how much quantity he wants.
-Once that is done the program generates a bill on the purchase he made.
-After that it saves all the details of the purchase in the sales.json file and updates the record.json file according to the purchase made.
+-----
+### Overview
+Here you will get a inventory management system which can manage all the records and sales of products.
 
-To start with the Adding products program it asks user to give an input wheather he wants to add or delete a product from our record or exit.
-It shows all the products available in the inventory.
-To add the product it will ask for the product id of the product which the user wants to add in record.
-If the id is already present in the database, it will update the quantity which is to be added.
-If not it asks for the new product details from the user, according to that it will be added in the database.
-To delete the product it will ask for the product id of the product which the user wants to delete from  the record.
-Once the id has entered it will check if the id is present in the database and then will delete the record.
-After that it will update all the details in the record.json file.
+-----
+### Description
+You'll Learn about JSON, File Handling, NoSQL database, Python Loops, Python Data Structures, If-else conditions, Error Handling.
+
+-----
+### All Files
+Inventory Management.ipynb, Adding Products.ipynb, record.json, sales.json.
+
+-----
+### Features
+You can make a purchase using the inventory management program. Then your purchase will be updated in the sales.json file.
+In the adding products program you can add products to the record.json file or you can delete a record if you want.
+
+-----
+### Product Features
+Product id, Name, Price, Manufacturing date, Expiry date, Quantity.
+
+-----
+### Transaction Features
+Transaction id, Product id, Name, Quantity, Amount, Date and Time.
+
+-----
+### About me
+My name is Nishad Nakhwa. I'm currently studing IT Engineering from Datta Meghe College of Engineering, I'm in the final year of completion of my BE degree. I am good at Python,C and Java Programming. I have also studied Data mining and I have interest in Data Science, AI and ML, I want to learn as much as I can about these and make proper use of my learnings in my future career.
+
+-----
+### Other Links
+LinkedIn - https://www.linkedin.com/in/nishad-nakhwa-323a1120b/
+
+Kaggle - https://www.kaggle.com/nishadnakhwa
+
+Instagram - https://www.instagram.com/mi_hai_koli_08/
+
+Facebook - https://www.facebook.com/nishad.nakhwa.5
