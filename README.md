@@ -28,7 +28,7 @@ Transaction id, Product id, Name, Quantity, Amount, Date and Time.
 
 -----
 ### About me
-My name is Nishad Nakhwa. I'm currently studing IT Engineering from Datta Meghe College of Engineering, I'm in the final year of completion of my BE degree. I am good at Python,C and Java Programming. I have also studied Data mining and I have interest in Data Science, AI and ML, I want to learn as much as I can about these and make proper use of my learnings in my future career.
+My name is Nishad Nakhwa. I'm currently pursuing my BE degree in IT Engineering from Datta Meghe College of Engineering. I am good at Python,C and Java Programming. I have also studied Data mining and I have interest in Data Science, AI and ML, I want to learn as much as I can about these and make proper use of my learnings in my future career.
 
 -----
 ### Other Links
